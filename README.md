@@ -1,10 +1,10 @@
 # Práctica 2 — Complejidad en ordenamiento
 
 - **Materia:** [Analisis y Diseños de algoritmos]
-- **Práctica:** 2 — Complejidad en ordenamiento
-- **Docente:** [escribe el nombre del docente]
-- **Estudiante(s):** [escribe nombre(s) y apellidos]
-- **Grupo:** [escribe el grupo]
+- **Práctica:** [2 — Complejidad en ordenamiento]
+- **Docente:** [Andres Garcia Floreano]
+- **Estudiante(s):** [Iker Gael Cruz Vargas]
+- **Grupo:** [3CV1]
 - **Fecha de entrega:** 29/10/2026
 
 ## Objetivo
