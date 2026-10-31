@@ -13,8 +13,8 @@ Implementar cinco algoritmos de ordenamiento en dos lenguajes, comparar sus tiem
 
 ## Secciones por lenguaje
 
-- [Java: código, resultados y evidencias](Java/README.md)
-- [C++: código, resultados y evidencias](C++/README.md)
+- [Java: código, resultados y evidencias]
+- [C++: código, resultados y evidencias]
 
 El código completo y su explicación están en este README para consulta rápida. Los CSV registran los resultados visibles en las capturas adjuntas: una ejecución por lenguaje con 100,000 elementos. Los datos no son promedios ni deben interpretarse como comparación controlada entre equipos.
 
